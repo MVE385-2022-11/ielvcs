@@ -1,0 +1,11 @@
+# MATLAB autosave
+*.asv
+
+# output files
+*.log
+*.fig
+*.pdf
+*.mat
+
+# result output files
+results/out/
